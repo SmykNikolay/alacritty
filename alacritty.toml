@@ -15,10 +15,14 @@ option_as_alt = "Both"
 
 [font]
 normal.family = "MesloLGS Nerd Font Mono"
-
+bold.family = "MesloLGS Nerd Font Mono"
+italic.family = "MesloLGS Nerd Font Mono"
+bold_italic.family = "MesloLGS Nerd Font Mono"
 size = 13
-
-
+offset.x = 0
+offset.y = 0
+glyph_offset.x = 0
+glyph_offset.y = 0
 [cursor]
 style = "Beam"
 blink_interval = 500
