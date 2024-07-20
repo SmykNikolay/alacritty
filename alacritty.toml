@@ -8,7 +8,7 @@ dynamic_padding = true
 startup_mode = "Maximized"
 decorations = "Buttonless"
 
-opacity = 0.70
+opacity = 0.8
 blur = true
 
 option_as_alt = "Both"
